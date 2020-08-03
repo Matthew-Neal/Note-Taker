@@ -11,7 +11,7 @@
 ## Description:
 Application created using Express that can be used to write, save, and delete notes.
 ## Installation:
-In your web browser navigate to https://notetaker12345.herokuapp.com/notes to access the app.
+In your web browser navigate to https://notetaker12345.herokuapp.com/ to access the app.
 ## App Usage:
 To start taking notes: click the Get Started button. This will navigate to the notes page.
 ## License Details:  
